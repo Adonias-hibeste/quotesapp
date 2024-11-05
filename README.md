@@ -16,7 +16,7 @@ The **Quotes App** is a simple and elegant mobile application that allows users 
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |--------------|--------------|--------------|
-| ![Screenshot1](lib/images/photo_2024-11-04_23-18-27%20(2).jpg) | ![Screenshot2](./photo_2024-11-04_23-18-27%20(2).jpg) | ![Screenshot3](./photo_2024-11-04_23-18-27%20(3).jpg) |
+ ![Screenshot2](./photo_2024-11-04_23-18-27%20(2).jpg) | ![Screenshot3](./photo_2024-11-04_23-18-27%20(3).jpg) |
 
 *Note: Add your own screenshots by replacing the above image paths with the correct file names. Make sure that the screenshots are stored in the root directory or adjust the paths accordingly.*
 
