@@ -61,13 +61,14 @@ After navigating into the project folder, run the following command to install a
 
 ```bash
 flutter pub get
-
+```
 ## Run the App
 
 Connect a physical device or start an emulator, then run:
 
 ```bash
 flutter run
+```
 This command will compile the app and run it on the connected device or emulator.
 
 ## Usage Instructions
