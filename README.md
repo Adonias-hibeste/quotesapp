@@ -14,8 +14,8 @@ The **Quotes App** is a simple and elegant mobile application that allows users 
 
 ## Screenshots
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|--------------|--------------|--------------|
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
  ![Screenshot2](./photo_2024-11-04_23-18-27%20(2).jpg) | ![Screenshot3](./photo_2024-11-04_23-18-27%20(3).jpg) |
 
 
